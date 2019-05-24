@@ -1,0 +1,24 @@
+/* Color and size for Jumbotron background */
+.jumbotron {
+
+    height: 40%;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-image: url("../images/splashpaint.jpg");
+    background-position: center;
+    background-image: cover;
+    color: blue;
+}
+  /* First header alignment on page */
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+#search {
+    margin-left: 30px;
+}
+/* Alignment-left for Submit button */
+.btn {
+    margin-left: 25px;
+    margin-right: 0px;
+}
