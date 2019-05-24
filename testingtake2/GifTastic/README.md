@@ -1,11 +1,14 @@
 # GifTastic
 First APP will consist of Looney Tunes characters on the move and plenty of laughs.
 
-Week 6 homework involved:
+Week 6 homework involved these topics:
 
+JSON
 Ajax
-Api
-Stop and Start
+HTTP GET requests
+Server-side APIs
+Ajax
+Api Calls
 
 Landing page consits of 10 Looney Toon famous characters that when initially clicked on will begin moving.
 
